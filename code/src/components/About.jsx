@@ -41,7 +41,7 @@ const About = () => {
           <div className='flex flex-row items-center justify-center md:justify-normal mt-6 gap-3 sm:gap-8'>
             {/* Resume Link  */}
             <button className='px-3 py-2 text-base sm:text-lg bg-black hover:bg-gray-800 font-semibold cursor-pointer shadow-lg text-white outline-none rounded-lg'>
-              <a href="https://drive.google.com/file/d/1bPr9QgkgEFHSbejanNPwaLVSKh7MFFtm/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1Sn3ReAPNo6-ua15ax7nJnypJ1yCLk2fn/view?usp=sharing"
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center justify-center gap-1'>
