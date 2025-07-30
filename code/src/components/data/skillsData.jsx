@@ -6,7 +6,7 @@ import redux from '../../assets/reduxImage.png';
 import bootstrap from '../../assets/bootstrapImage.png';
 import tailwind from '../../assets/tailwindImage.png';
 import jwt from '../../assets/jwtImage.png';
-import MongoDB from '../../assets/MongoDBImage.png';
+import MongoDB from '../../assets/mongodbImage.png';
 import nodejs from '../../assets/nodejs.png';
 import express from '../../assets/expressImage.png';
 import vercel from '../../assets/vercel.png';
