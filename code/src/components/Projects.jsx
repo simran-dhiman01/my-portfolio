@@ -1,5 +1,5 @@
 import React from 'react'
-import jobportal from '../assets/jobportal.png'
+import jobportal from '../assets/Jobportal.png'
 import spreadsheet from '../assets/spreadsheet.png'
 import Taskmanager from '../assets/Taskmanager.png'
 import votingapp from '../assets/votingapp.jpg'
