@@ -31,8 +31,8 @@ const Projects = () => {
         <Card
           image={taskmanager}
           name="Task Manager"
-          description="A task management web app built using pure HTML, JavaScript, and Tailwind CSS for the frontend. It uses a custom backend API with JSON file storage to handle task creation, updates, and deletions—ensuring a fully functional and lightweight productivity tool."
-          techstack={['HTML', 'JavaScript', 'Tailwind CSS', 'Node.js']}
+          description="Developed a full-stack task management application using MERN Stack with a modern responsive UI built in TailwindCSS. Implemented secure authentication, CRUD functionality for tasks, priority levels, and filters for efficient task tracking."
+          techstack={['React.js','Tailwind CSS', 'Node.js' ,'Express.js' , 'MongoDB']}
           live='https://task-manager-one-fawn-60.vercel.app'
           github='https://github.com/simran-dhiman01/Task-manager' />
 
