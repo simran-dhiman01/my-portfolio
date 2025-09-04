@@ -1,7 +1,7 @@
 import React from 'react'
 import jobportal from '../assets/Jobportal.png'
 import spreadsheet from '../assets/spreadsheet.png'
-import TaskManager from '../assets/TaskManager.png'
+import taskmanager from '../assets/taskmanager.png'
 import votingapp from '../assets/votingapp.jpg'
 import perfumeshop from '../assets/perfumeshop.jpg'
 import { FaExternalLinkAlt } from "react-icons/fa";
@@ -29,7 +29,7 @@ const Projects = () => {
           github='https://github.com/simran-dhiman01/job-portal-mernStack' />
 
         <Card
-          image={TaskManager}
+          image={taskmanager}
           name="Task Manager"
           description="A task management web app built using pure HTML, JavaScript, and Tailwind CSS for the frontend. It uses a custom backend API with JSON file storage to handle task creation, updates, and deletions—ensuring a fully functional and lightweight productivity tool."
           techstack={['HTML', 'JavaScript', 'Tailwind CSS', 'Node.js']}
